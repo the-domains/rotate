@@ -1,7 +1,7 @@
 name: Rotate
 favicon: null
-layout_spectrum: 0.7349701235070825
-typography_spectrum: 0.7163205733522773
+layout_spectrum: 0.47052
+typography_spectrum: 1
 title: 肉桂數位行銷
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.2461423664353788
-  lightness: 0.09273317223414779
-  saturation: 0.9474548862781376
+    - '#fefefe'
+    - '#e1e4cf'
+    - '#8fa461'
+    - '#6d6f64'
+    - '#2f3d2e'
+  brandStrength: 0.8125
+  lightness: 0
+  saturation: 0.5625
   rhythmicContrast: 0.5261154340114444
 purpose: []
